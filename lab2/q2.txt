@@ -1,0 +1,489 @@
+Time 0: Student 12 starts reading at the library for 1 hours.
+Time 0: Student 60 is waiting to enter the library.
+Time 0: Student 65 is waiting to enter the library.
+Time 0: Student 67 is waiting to enter the library.
+Time 0: Student 18 starts reading at the library for 3 hours.
+Time 0: Student 68 is waiting to enter the library.
+Time 0: Student 62 is waiting to enter the library.
+Time 0: Student 16 starts reading at the library for 3 hours.
+Time 0: Student 15 starts reading at the library for 1 hours.
+Time 0: Student 17 starts reading at the library for 1 hours.
+Time 0: Student 14 starts reading at the library for 3 hours.
+Time 0: Student 73 is waiting to enter the library.
+Time 0: Student 72 is waiting to enter the library.
+Time 0: Student 79 is waiting to enter the library.
+Time 0: Student 13 starts reading at the library for 3 hours.
+Time 0: Student 3 starts reading at the library for 1 hours.
+Time 0: Student 1 starts reading at the library for 4 hours.
+Time 0: Student 4 starts reading at the library for 4 hours.
+Time 0: Student 2 starts reading at the library for 4 hours.
+Time 0: Student 9 starts reading at the library for 2 hours.
+Time 0: Student 80 is waiting to enter the library.
+Time 0: Student 82 is waiting to enter the library.
+Time 0: Student 7 starts reading at the library for 2 hours.
+Time 0: Student 84 is waiting to enter the library.
+Time 0: Student 86 is waiting to enter the library.
+Time 0: Student 87 is waiting to enter the library.
+Time 0: Student 91 is waiting to enter the library.
+Time 0: Student 92 is waiting to enter the library.
+Time 0: Student 93 is waiting to enter the library.
+Time 0: Student 94 is waiting to enter the library.
+Time 0: Student 95 is waiting to enter the library.
+Time 0: Student 96 is waiting to enter the library.
+Time 0: Student 10 starts reading at the library for 3 hours.
+Time 0: Student 97 is waiting to enter the library.
+Time 0: Student 8 starts reading at the library for 4 hours.
+Time 0: Student 5 starts reading at the library for 3 hours.
+Time 0: Student 11 starts reading at the library for 3 hours.
+Time 0: Student 98 is waiting to enter the library.
+Time 0: Student 100 is waiting to enter the library.
+Time 0: Student 30 starts reading at the library for 1 hours.
+Time 0: Student 24 starts reading at the library for 2 hours.
+Time 0: Student 25 starts reading at the library for 2 hours.
+Time 0: Student 19 starts reading at the library for 2 hours.
+Time 0: Student 20 starts reading at the library for 4 hours.
+Time 0: Student 26 starts reading at the library for 2 hours.
+Time 0: Student 21 starts reading at the library for 3 hours.
+Time 0: Student 27 starts reading at the library for 3 hours.
+Time 0: Student 22 starts reading at the library for 4 hours.
+Time 0: Student 28 starts reading at the library for 1 hours.
+Time 0: Student 23 starts reading at the library for 3 hours.
+Time 0: Student 29 starts reading at the library for 1 hours.
+Time 0: Student 38 is waiting to enter the library.
+Time 0: Student 31 is waiting to enter the library.
+Time 0: Student 42 is waiting to enter the library.
+Time 0: Student 6 starts reading at the library for 2 hours.
+Time 0: Student 32 is waiting to enter the library.
+Time 0: Student 39 is waiting to enter the library.
+Time 0: Student 33 is waiting to enter the library.
+Time 0: Student 40 is waiting to enter the library.
+Time 0: Student 34 is waiting to enter the library.
+Time 0: Student 44 is waiting to enter the library.
+Time 0: Student 35 is waiting to enter the library.
+Time 0: Student 36 is waiting to enter the library.
+Time 0: Student 41 is waiting to enter the library.
+Time 0: Student 46 is waiting to enter the library.
+Time 0: Student 43 is waiting to enter the library.
+Time 0: Student 37 is waiting to enter the library.
+Time 0: Student 48 is waiting to enter the library.
+Time 0: Student 45 is waiting to enter the library.
+Time 0: Student 49 is waiting to enter the library.
+Time 0: Student 47 is waiting to enter the library.
+Time 0: Student 50 is waiting to enter the library.
+Time 0: Student 51 is waiting to enter the library.
+Time 0: Student 52 is waiting to enter the library.
+Time 0: Student 53 is waiting to enter the library.
+Time 0: Student 54 is waiting to enter the library.
+Time 0: Student 55 is waiting to enter the library.
+Time 0: Student 56 is waiting to enter the library.
+Time 0: Student 57 is waiting to enter the library.
+Time 0: Student 58 is waiting to enter the library.
+Time 0: Student 61 is waiting to enter the library.
+Time 0: Student 63 is waiting to enter the library.
+Time 0: Student 64 is waiting to enter the library.
+Time 0: Student 66 is waiting to enter the library.
+Time 0: Student 69 is waiting to enter the library.
+Time 0: Student 70 is waiting to enter the library.
+Time 0: Student 59 is waiting to enter the library.
+Time 0: Student 71 is waiting to enter the library.
+Time 0: Student 75 is waiting to enter the library.
+Time 0: Student 74 is waiting to enter the library.
+Time 0: Student 77 is waiting to enter the library.
+Time 0: Student 76 is waiting to enter the library.
+Time 0: Student 81 is waiting to enter the library.
+Time 0: Student 83 is waiting to enter the library.
+Time 0: Student 85 is waiting to enter the library.
+Time 0: Student 78 is waiting to enter the library.
+Time 0: Student 89 is waiting to enter the library.
+Time 0: Student 88 is waiting to enter the library.
+Time 0: Student 90 is waiting to enter the library.
+Time 0: Student 99 is waiting to enter the library.
+Time 1: Student 68 is waiting to enter the library.
+Time 1: Student 73 is waiting to enter the library.
+Time 1: Student 62 is waiting to enter the library.
+Time 1: Student 60 is waiting to enter the library.
+Time 1: Student 12 is leaving. Spent 1 hours reading.
+Time 1: Student 17 is leaving. Spent 1 hours reading.
+Time 1: Student 65 is waiting to enter the library.
+Time 1: Student 67 is waiting to enter the library.
+Time 1: Student 15 is leaving. Spent 1 hours reading.
+Time 1: Student 30 is leaving. Spent 1 hours reading.
+Time 1: Student 80 starts reading at the library for 1 hours.
+Time 1: Student 79 starts reading at the library for 1 hours.
+Time 1: Student 84 starts reading at the library for 1 hours.
+Time 1: Student 3 is leaving. Spent 1 hours reading.
+Time 1: Student 100 is waiting to enter the library.
+Time 1: Student 72 starts reading at the library for 1 hours.
+Time 1: Student 95 is waiting to enter the library.
+Time 1: Student 82 is waiting to enter the library.
+Time 1: Student 91 is waiting to enter the library.
+Time 1: Student 98 is waiting to enter the library.
+Time 1: Student 93 is waiting to enter the library.
+Time 1: Student 86 is waiting to enter the library.
+Time 1: Student 99 starts reading at the library for 3 hours.
+Time 1: Student 94 is waiting to enter the library.
+Time 1: Student 87 is waiting to enter the library.
+Time 1: Student 96 is waiting to enter the library.
+Time 1: Student 51 is waiting to enter the library.
+Time 1: Student 88 is waiting to enter the library.
+Time 1: Student 50 is waiting to enter the library.
+Time 1: Student 52 is waiting to enter the library.
+Time 1: Student 44 is waiting to enter the library.
+Time 1: Student 47 is waiting to enter the library.
+Time 1: Student 49 is waiting to enter the library.
+Time 1: Student 70 is waiting to enter the library.
+Time 1: Student 53 is waiting to enter the library.
+Time 1: Student 45 is waiting to enter the library.
+Time 1: Student 76 is waiting to enter the library.
+Time 1: Student 75 is waiting to enter the library.
+Time 1: Student 71 is waiting to enter the library.
+Time 1: Student 63 is waiting to enter the library.
+Time 1: Student 69 is waiting to enter the library.
+Time 1: Student 97 is waiting to enter the library.
+Time 1: Student 36 is waiting to enter the library.
+Time 1: Student 64 is waiting to enter the library.
+Time 1: Student 56 is waiting to enter the library.
+Time 1: Student 61 is waiting to enter the library.
+Time 1: Student 89 is waiting to enter the library.
+Time 1: Student 83 is waiting to enter the library.
+Time 1: Student 46 is waiting to enter the library.
+Time 1: Student 81 is waiting to enter the library.
+Time 1: Student 92 is waiting to enter the library.
+Time 1: Student 55 is waiting to enter the library.
+Time 1: Student 57 is waiting to enter the library.
+Time 1: Student 66 is waiting to enter the library.
+Time 1: Student 32 is waiting to enter the library.
+Time 1: Student 48 is waiting to enter the library.
+Time 1: Student 33 is waiting to enter the library.
+Time 1: Student 74 is waiting to enter the library.
+Time 1: Student 39 is waiting to enter the library.
+Time 1: Student 29 is leaving. Spent 1 hours reading.
+Time 1: Student 35 is waiting to enter the library.
+Time 1: Student 90 is waiting to enter the library.
+Time 1: Student 28 is leaving. Spent 1 hours reading.
+Time 1: Student 41 is waiting to enter the library.
+Time 1: Student 77 is waiting to enter the library.
+Time 1: Student 38 is waiting to enter the library.
+Time 1: Student 40 is waiting to enter the library.
+Time 1: Student 59 is waiting to enter the library.
+Time 1: Student 43 is waiting to enter the library.
+Time 1: Student 85 is waiting to enter the library.
+Time 1: Student 42 is waiting to enter the library.
+Time 1: Student 31 is waiting to enter the library.
+Time 1: Student 78 is waiting to enter the library.
+Time 1: Student 37 is waiting to enter the library.
+Time 1: Student 34 is waiting to enter the library.
+Time 1: Student 54 is waiting to enter the library.
+Time 1: Student 58 is waiting to enter the library.
+Time 2: Student 65 starts reading at the library for 4 hours.
+Time 2: Student 73 is waiting to enter the library.
+Time 2: Student 67 starts reading at the library for 2 hours.
+Time 2: Student 62 is waiting to enter the library.
+Time 2: Student 60 is waiting to enter the library.
+Time 2: Student 7 is leaving. Spent 2 hours reading.
+Time 2: Student 9 is leaving. Spent 2 hours reading.
+Time 2: Student 25 is leaving. Spent 2 hours reading.
+Time 2: Student 26 is leaving. Spent 2 hours reading.
+Time 2: Student 6 is leaving. Spent 2 hours reading.
+Time 2: Student 19 is leaving. Spent 2 hours reading.
+Time 2: Student 68 is waiting to enter the library.
+Time 2: Student 24 is leaving. Spent 2 hours reading.
+Time 2: Student 59 starts reading at the library for 2 hours.
+Time 2: Student 97 starts reading at the library for 2 hours.
+Time 2: Student 81 starts reading at the library for 2 hours.
+Time 2: Student 98 is waiting to enter the library.
+Time 2: Student 49 is waiting to enter the library.
+Time 2: Student 79 is leaving. Spent 1 hours reading.
+Time 2: Student 96 is waiting to enter the library.
+Time 2: Student 93 is waiting to enter the library.
+Time 2: Student 41 is waiting to enter the library.
+Time 2: Student 56 starts reading at the library for 2 hours.
+Time 2: Student 38 is waiting to enter the library.
+Time 2: Student 39 is waiting to enter the library.
+Time 2: Student 88 is waiting to enter the library.
+Time 2: Student 40 starts reading at the library for 3 hours.
+Time 2: Student 80 is leaving. Spent 1 hours reading.
+Time 2: Student 92 starts reading at the library for 2 hours.
+Time 2: Student 100 starts reading at the library for 2 hours.
+Time 2: Student 72 is leaving. Spent 1 hours reading.
+Time 2: Student 69 is waiting to enter the library.
+Time 2: Student 63 is waiting to enter the library.
+Time 2: Student 46 is waiting to enter the library.
+Time 2: Student 61 is waiting to enter the library.
+Time 2: Student 91 is waiting to enter the library.
+Time 2: Student 43 is waiting to enter the library.
+Time 2: Student 84 is leaving. Spent 1 hours reading.
+Time 2: Student 70 is waiting to enter the library.
+Time 2: Student 76 is waiting to enter the library.
+Time 2: Student 45 is waiting to enter the library.
+Time 2: Student 44 is waiting to enter the library.
+Time 2: Student 50 is waiting to enter the library.
+Time 2: Student 51 is waiting to enter the library.
+Time 2: Student 47 is waiting to enter the library.
+Time 2: Student 53 is waiting to enter the library.
+Time 2: Student 90 is waiting to enter the library.
+Time 2: Student 58 is waiting to enter the library.
+Time 2: Student 87 is waiting to enter the library.
+Time 2: Student 95 is waiting to enter the library.
+Time 2: Student 52 is waiting to enter the library.
+Time 2: Student 35 is waiting to enter the library.
+Time 2: Student 82 is waiting to enter the library.
+Time 2: Student 89 is waiting to enter the library.
+Time 2: Student 75 is waiting to enter the library.
+Time 2: Student 94 is waiting to enter the library.
+Time 2: Student 74 is waiting to enter the library.
+Time 2: Student 54 starts reading at the library for 4 hours.
+Time 2: Student 77 is waiting to enter the library.
+Time 2: Student 31 is waiting to enter the library.
+Time 2: Student 33 is waiting to enter the library.
+Time 2: Student 48 is waiting to enter the library.
+Time 2: Student 37 is waiting to enter the library.
+Time 2: Student 78 is waiting to enter the library.
+Time 2: Student 32 is waiting to enter the library.
+Time 2: Student 71 is waiting to enter the library.
+Time 2: Student 83 is waiting to enter the library.
+Time 2: Student 85 is waiting to enter the library.
+Time 2: Student 86 is waiting to enter the library.
+Time 2: Student 66 is waiting to enter the library.
+Time 2: Student 42 is waiting to enter the library.
+Time 2: Student 64 is waiting to enter the library.
+Time 2: Student 34 is waiting to enter the library.
+Time 2: Student 57 is waiting to enter the library.
+Time 2: Student 36 is waiting to enter the library.
+Time 2: Student 55 is waiting to enter the library.
+Time 3: Student 16 is leaving. Spent 3 hours reading.
+Time 3: Student 23 is leaving. Spent 3 hours reading.
+Time 3: Student 10 is leaving. Spent 3 hours reading.
+Time 3: Student 27 is leaving. Spent 3 hours reading.
+Time 3: Student 21 is leaving. Spent 3 hours reading.
+Time 3: Student 5 is leaving. Spent 3 hours reading.
+Time 3: Student 18 is leaving. Spent 3 hours reading.
+Time 3: Student 11 is leaving. Spent 3 hours reading.
+Time 3: Student 14 is leaving. Spent 3 hours reading.
+Time 3: Student 13 is leaving. Spent 3 hours reading.
+Time 3: Student 68 starts reading at the library for 3 hours.
+Time 3: Student 73 starts reading at the library for 3 hours.
+Time 3: Student 62 starts reading at the library for 3 hours.
+Time 3: Student 60 starts reading at the library for 2 hours.
+Time 3: Student 91 starts reading at the library for 1 hours.
+Time 3: Student 38 starts reading at the library for 2 hours.
+Time 3: Student 49 is waiting to enter the library.
+Time 3: Student 35 is waiting to enter the library.
+Time 3: Student 39 is waiting to enter the library.
+Time 3: Student 71 is waiting to enter the library.
+Time 3: Student 90 is waiting to enter the library.
+Time 3: Student 93 is waiting to enter the library.
+Time 3: Student 98 is waiting to enter the library.
+Time 3: Student 48 is waiting to enter the library.
+Time 3: Student 43 is waiting to enter the library.
+Time 3: Student 77 starts reading at the library for 3 hours.
+Time 3: Student 36 starts reading at the library for 2 hours.
+Time 3: Student 55 starts reading at the library for 4 hours.
+Time 3: Student 31 starts reading at the library for 2 hours.
+Time 3: Student 96 starts reading at the library for 2 hours.
+Time 3: Student 33 starts reading at the library for 4 hours.
+Time 3: Student 41 starts reading at the library for 3 hours.
+Time 3: Student 57 is waiting to enter the library.
+Time 3: Student 34 is waiting to enter the library.
+Time 3: Student 74 is waiting to enter the library.
+Time 3: Student 64 is waiting to enter the library.
+Time 3: Student 88 is waiting to enter the library.
+Time 3: Student 42 is waiting to enter the library.
+Time 3: Student 66 is waiting to enter the library.
+Time 3: Student 75 is waiting to enter the library.
+Time 3: Student 86 is waiting to enter the library.
+Time 3: Student 70 is waiting to enter the library.
+Time 3: Student 89 is waiting to enter the library.
+Time 3: Student 85 is waiting to enter the library.
+Time 3: Student 83 is waiting to enter the library.
+Time 3: Student 37 is waiting to enter the library.
+Time 3: Student 44 is waiting to enter the library.
+Time 3: Student 45 is waiting to enter the library.
+Time 3: Student 61 is waiting to enter the library.
+Time 3: Student 82 is waiting to enter the library.
+Time 3: Student 76 is waiting to enter the library.
+Time 3: Student 52 is waiting to enter the library.
+Time 3: Student 95 is waiting to enter the library.
+Time 3: Student 78 is waiting to enter the library.
+Time 3: Student 50 is waiting to enter the library.
+Time 3: Student 51 is waiting to enter the library.
+Time 3: Student 46 is waiting to enter the library.
+Time 3: Student 87 is waiting to enter the library.
+Time 3: Student 63 is waiting to enter the library.
+Time 3: Student 94 is waiting to enter the library.
+Time 3: Student 69 is waiting to enter the library.
+Time 3: Student 32 is waiting to enter the library.
+Time 3: Student 47 is waiting to enter the library.
+Time 3: Student 58 is waiting to enter the library.
+Time 3: Student 53 is waiting to enter the library.
+Time 4: Student 2 is leaving. Spent 4 hours reading.
+Time 4: Student 4 is leaving. Spent 4 hours reading.
+Time 4: Student 8 is leaving. Spent 4 hours reading.
+Time 4: Student 22 is leaving. Spent 4 hours reading.
+Time 4: Student 1 is leaving. Spent 4 hours reading.
+Time 4: Student 20 is leaving. Spent 4 hours reading.
+Time 4: Student 67 is leaving. Spent 2 hours reading.
+Time 4: Student 99 is leaving. Spent 3 hours reading.
+Time 4: Student 97 is leaving. Spent 2 hours reading.
+Time 4: Student 59 is leaving. Spent 2 hours reading.
+Time 4: Student 92 is leaving. Spent 2 hours reading.
+Time 4: Student 56 is leaving. Spent 2 hours reading.
+Time 4: Student 81 is leaving. Spent 2 hours reading.
+Time 4: Student 100 is leaving. Spent 2 hours reading.
+Time 4: Student 53 starts reading at the library for 2 hours.
+Time 4: Student 50 starts reading at the library for 2 hours.
+Time 4: Student 35 is waiting to enter the library.
+Time 4: Student 74 is waiting to enter the library.
+Time 4: Student 39 is waiting to enter the library.
+Time 4: Student 71 is waiting to enter the library.
+Time 4: Student 43 starts reading at the library for 4 hours.
+Time 4: Student 98 starts reading at the library for 3 hours.
+Time 4: Student 48 starts reading at the library for 2 hours.
+Time 4: Student 45 starts reading at the library for 1 hours.
+Time 4: Student 51 starts reading at the library for 3 hours.
+Time 4: Student 47 starts reading at the library for 3 hours.
+Time 4: Student 32 starts reading at the library for 3 hours.
+Time 4: Student 44 starts reading at the library for 3 hours.
+Time 4: Student 69 starts reading at the library for 2 hours.
+Time 4: Student 37 starts reading at the library for 1 hours.
+Time 4: Student 93 starts reading at the library for 1 hours.
+Time 4: Student 94 starts reading at the library for 3 hours.
+Time 4: Student 83 is waiting to enter the library.
+Time 4: Student 63 is waiting to enter the library.
+Time 4: Student 85 is waiting to enter the library.
+Time 4: Student 89 is waiting to enter the library.
+Time 4: Student 87 is waiting to enter the library.
+Time 4: Student 70 is waiting to enter the library.
+Time 4: Student 78 is waiting to enter the library.
+Time 4: Student 46 is waiting to enter the library.
+Time 4: Student 86 is waiting to enter the library.
+Time 4: Student 75 is waiting to enter the library.
+Time 4: Student 49 is waiting to enter the library.
+Time 4: Student 64 is waiting to enter the library.
+Time 4: Student 95 is waiting to enter the library.
+Time 4: Student 66 is waiting to enter the library.
+Time 4: Student 52 is waiting to enter the library.
+Time 4: Student 42 is waiting to enter the library.
+Time 4: Student 76 is waiting to enter the library.
+Time 4: Student 57 is waiting to enter the library.
+Time 4: Student 88 is waiting to enter the library.
+Time 4: Student 90 is waiting to enter the library.
+Time 4: Student 58 is waiting to enter the library.
+Time 4: Student 82 is waiting to enter the library.
+Time 4: Student 34 is waiting to enter the library.
+Time 4: Student 61 is waiting to enter the library.
+Time 4: Student 91 is leaving. Spent 1 hours reading.
+Time 5: Student 60 is leaving. Spent 2 hours reading.
+Time 5: Student 40 is leaving. Spent 3 hours reading.
+Time 5: Student 38 is leaving. Spent 2 hours reading.
+Time 5: Student 96 is leaving. Spent 2 hours reading.
+Time 5: Student 36 is leaving. Spent 2 hours reading.
+Time 5: Student 31 is leaving. Spent 2 hours reading.
+Time 5: Student 42 starts reading at the library for 1 hours.
+Time 5: Student 39 starts reading at the library for 3 hours.
+Time 5: Student 63 is waiting to enter the library.
+Time 5: Student 52 is waiting to enter the library.
+Time 5: Student 35 is waiting to enter the library.
+Time 5: Student 90 is waiting to enter the library.
+Time 5: Student 85 starts reading at the library for 4 hours.
+Time 5: Student 61 starts reading at the library for 4 hours.
+Time 5: Student 34 starts reading at the library for 1 hours.
+Time 5: Student 82 starts reading at the library for 2 hours.
+Time 5: Student 58 is waiting to enter the library.
+Time 5: Student 87 is waiting to enter the library.
+Time 5: Student 37 is leaving. Spent 1 hours reading.
+Time 5: Student 88 is waiting to enter the library.
+Time 5: Student 95 is waiting to enter the library.
+Time 5: Student 57 is waiting to enter the library.
+Time 5: Student 93 is leaving. Spent 1 hours reading.
+Time 5: Student 49 is waiting to enter the library.
+Time 5: Student 76 is waiting to enter the library.
+Time 5: Student 45 is leaving. Spent 1 hours reading.
+Time 5: Student 71 is waiting to enter the library.
+Time 5: Student 89 starts reading at the library for 1 hours.
+Time 5: Student 70 is waiting to enter the library.
+Time 5: Student 86 is waiting to enter the library.
+Time 5: Student 46 is waiting to enter the library.
+Time 5: Student 66 is waiting to enter the library.
+Time 5: Student 78 is waiting to enter the library.
+Time 5: Student 83 is waiting to enter the library.
+Time 5: Student 75 is waiting to enter the library.
+Time 5: Student 74 is waiting to enter the library.
+Time 5: Student 64 is waiting to enter the library.
+Time 6: Student 65 is leaving. Spent 4 hours reading.
+Time 6: Student 54 is leaving. Spent 4 hours reading.
+Time 6: Student 73 is leaving. Spent 3 hours reading.
+Time 6: Student 62 is leaving. Spent 3 hours reading.
+Time 6: Student 68 is leaving. Spent 3 hours reading.
+Time 6: Student 77 is leaving. Spent 3 hours reading.
+Time 6: Student 69 is leaving. Spent 2 hours reading.
+Time 6: Student 50 is leaving. Spent 2 hours reading.
+Time 6: Student 41 is leaving. Spent 3 hours reading.
+Time 6: Student 48 is leaving. Spent 2 hours reading.
+Time 6: Student 53 is leaving. Spent 2 hours reading.
+Time 6: Student 52 starts reading at the library for 1 hours.
+Time 6: Student 86 starts reading at the library for 3 hours.
+Time 6: Student 57 starts reading at the library for 3 hours.
+Time 6: Student 78 starts reading at the library for 2 hours.
+Time 6: Student 35 is waiting to enter the library.
+Time 6: Student 88 starts reading at the library for 2 hours.
+Time 6: Student 71 starts reading at the library for 1 hours.
+Time 6: Student 89 is leaving. Spent 1 hours reading.
+Time 6: Student 34 is leaving. Spent 1 hours reading.
+Time 6: Student 64 starts reading at the library for 1 hours.
+Time 6: Student 49 starts reading at the library for 4 hours.
+Time 6: Student 74 starts reading at the library for 3 hours.
+Time 6: Student 75 starts reading at the library for 3 hours.
+Time 6: Student 83 starts reading at the library for 2 hours.
+Time 6: Student 95 starts reading at the library for 2 hours.
+Time 6: Student 42 is leaving. Spent 1 hours reading.
+Time 6: Student 87 starts reading at the library for 4 hours.
+Time 6: Student 46 starts reading at the library for 2 hours.
+Time 6: Student 63 is waiting to enter the library.
+Time 6: Student 58 is waiting to enter the library.
+Time 6: Student 90 is waiting to enter the library.
+Time 6: Student 70 is waiting to enter the library.
+Time 6: Student 76 is waiting to enter the library.
+Time 6: Student 66 is waiting to enter the library.
+Time 7: Student 55 is leaving. Spent 4 hours reading.
+Time 7: Student 33 is leaving. Spent 4 hours reading.
+Time 7: Student 44 is leaving. Spent 3 hours reading.
+Time 7: Student 32 is leaving. Spent 3 hours reading.
+Time 7: Student 98 is leaving. Spent 3 hours reading.
+Time 7: Student 51 is leaving. Spent 3 hours reading.
+Time 7: Student 94 is leaving. Spent 3 hours reading.
+Time 7: Student 47 is leaving. Spent 3 hours reading.
+Time 7: Student 82 is leaving. Spent 2 hours reading.
+Time 7: Student 64 is leaving. Spent 1 hours reading.
+Time 7: Student 58 starts reading at the library for 1 hours.
+Time 7: Student 66 starts reading at the library for 3 hours.
+Time 7: Student 52 is leaving. Spent 1 hours reading.
+Time 7: Student 71 is leaving. Spent 1 hours reading.
+Time 7: Student 76 starts reading at the library for 4 hours.
+Time 7: Student 70 starts reading at the library for 3 hours.
+Time 7: Student 90 starts reading at the library for 4 hours.
+Time 7: Student 63 starts reading at the library for 2 hours.
+Time 7: Student 35 starts reading at the library for 2 hours.
+Time 8: Student 43 is leaving. Spent 4 hours reading.
+Time 8: Student 39 is leaving. Spent 3 hours reading.
+Time 8: Student 46 is leaving. Spent 2 hours reading.
+Time 8: Student 83 is leaving. Spent 2 hours reading.
+Time 8: Student 95 is leaving. Spent 2 hours reading.
+Time 8: Student 88 is leaving. Spent 2 hours reading.
+Time 8: Student 58 is leaving. Spent 1 hours reading.
+Time 8: Student 78 is leaving. Spent 2 hours reading.
+Time 9: Student 85 is leaving. Spent 4 hours reading.
+Time 9: Student 61 is leaving. Spent 4 hours reading.
+Time 9: Student 74 is leaving. Spent 3 hours reading.
+Time 9: Student 57 is leaving. Spent 3 hours reading.
+Time 9: Student 35 is leaving. Spent 2 hours reading.
+Time 9: Student 63 is leaving. Spent 2 hours reading.
+Time 9: Student 86 is leaving. Spent 3 hours reading.
+Time 9: Student 75 is leaving. Spent 3 hours reading.
+Time 10: Student 49 is leaving. Spent 4 hours reading.
+Time 10: Student 87 is leaving. Spent 4 hours reading.
+Time 10: Student 70 is leaving. Spent 3 hours reading.
+Time 10: Student 66 is leaving. Spent 3 hours reading.
+Time 11: Student 76 is leaving. Spent 4 hours reading.
+Time 11: Student 90 is leaving. Spent 4 hours reading.
+Time 11: No more students. Let's call it a day.
