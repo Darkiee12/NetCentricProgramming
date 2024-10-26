@@ -41,9 +41,12 @@ func (list *Players) UpdateBestAttempt(player Player, score int) {
 	list.Export()
 }
 
-func (p *Players) Add(username, password, fullname string, email, address string) {
+func (p *Players) Add(username, password, fullname, email, address string) {
 	player := Player{}
 	player.Create(username, password, fullname, email, address)
+	if p.Records == nil {
+		p.Records = make(map[string]Player)
+	}
 	p.Records[username] = player
 }
 

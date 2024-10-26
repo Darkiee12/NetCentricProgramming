@@ -32,3 +32,10 @@ func (c *Session) LogOut() {
 func (c *Session) IsLoggedIn() bool {
 	return c.LoggedIn
 }
+
+func (s *Session) Delete() error {
+	if err := s.Conn.Close(); err != nil {
+		return err
+	}
+	return nil
+}
